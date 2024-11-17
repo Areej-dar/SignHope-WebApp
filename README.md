@@ -15,8 +15,3 @@
 
 ## 📊 Logging and Monitoring
 The application logs are stored in webapp.log, and Logstash processes these logs for centralized monitoring.
-
-## 📝 Future Enhancements
-- Expand ASL vocabulary for gesture recognition.
-- Integrate real-time monitoring and alerting for better incident response.
-- Implement CI/CD pipeline for automated testing and deployment.
